@@ -1,0 +1,9 @@
+{
+    "extends": "airbnb-base",
+    "rules": {
+        "indent": ["error", 4],
+        "max-len": ["error", 150],
+        "no-param-reassign": "off",
+        "no-useless-constructor": "off"
+    }
+}
